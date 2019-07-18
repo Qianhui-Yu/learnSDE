@@ -3,3 +3,4 @@ Git is a free software.
 add one line.
 new day check.
 any different?
+test commit -a;
