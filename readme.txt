@@ -5,4 +5,4 @@ new day check.
 any different?
 test commit -a;
 
-tracks changes.
+tracks changes of file.
