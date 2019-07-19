@@ -6,3 +6,4 @@ any different?
 test commit -a;
 
 tracks changes of file.
+Creating a new branch is quick & simple.
